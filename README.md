@@ -63,9 +63,9 @@ Through a unique **mine-to-earn** system built on the **Haqq Blockchain**, users
 
 ## 📬 Contact
 
-- **Website:** [https://muslimcoin.org](https://muslimcoin.org)
-- **Telegram:** [t.me/MuslimCoin](https://t.me/MuslimCoin)
-- **X (Twitter):** [@MuslimCoinApp](https://twitter.com/MuslimCoinApp)
+- **Website:** [https://officialmuslimcoin.org](https://officialmuslimcoin.org)
+- **Telegram:** [t.me/MuslimCoinOfficial](https://t.me/MuslimCoinOfficial)
+- **X (Twitter):** [@ThemuslimCoin](https://twitter.com/MuslimCoinApp)
 - **Email:** muslimcoinproject@outlook.com
 
 ---
