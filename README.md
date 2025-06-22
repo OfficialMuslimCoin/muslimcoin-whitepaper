@@ -78,3 +78,4 @@ MIT License – Open-source for collaboration and community building.
 
 > _“Empowering the Ummah through faith-driven innovation.”_
 
+👉 [Read our Contribution Guide](CONTRIBUTING.md)
