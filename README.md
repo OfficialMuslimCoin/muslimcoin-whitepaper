@@ -7,70 +7,13 @@ Official repository for MuslimCoin - a halal web3 project built for the Ummah.
 ---
 
 ## ❇️ Introduction
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-
-const Whitepaper = () => {
-  return <div className="min-h-screen">
-      <Header />
-      <main className="pt-20">
-        <div className="container mx-auto px-4 py-16">
-          <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">
-              <span className="gradient-text">MuslimCoin Whitepaper</span>
-            </h1>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              The comprehensive guide to the world's first faith-based cryptocurrency
-            </p>
-          </div>
-
-          <Tabs defaultValue="abstract" className="max-w-6xl mx-auto">
-            <TabsList className="grid w-full grid-cols-6 lg:grid-cols-11 mb-8">
-              <TabsTrigger value="abstract">Abstract</TabsTrigger>
-              <TabsTrigger value="introduction">Introduction</TabsTrigger>
-              <TabsTrigger value="problem">Problem</TabsTrigger>
-              <TabsTrigger value="solution">Solution</TabsTrigger>
-              <TabsTrigger value="tokenomics">Tokenomics</TabsTrigger>
-              <TabsTrigger value="technology">Technology </TabsTrigger>
-              <TabsTrigger value="roadmap">Roadmap</TabsTrigger>
-              <TabsTrigger value="team">Team</TabsTrigger>
-              <TabsTrigger value="compliance">Compliance</TabsTrigger>
-              <TabsTrigger value="community">Community</TabsTrigger>
-              <TabsTrigger value="conclusion">Conclusion</TabsTrigger>
-            </TabsList>
-
-            <TabsContent value="abstract" className="bg-white p-8 rounded-2xl shadow-lg">
-              <h2 className="text-3xl font-bold mb-6 gradient-text">Abstract</h2>
-              <div className="prose max-w-none text-gray-700 leading-relaxed">
-                <p className="mb-4 text-lg font-medium">
-                  Muslim coin is a decentralised cryptocurrency project designed to bridge gap between modern financial innovation and islamic ethical principles in a rapidly evolving digital economy, the global muslim community remains underepresented in the crypto space due to concerns over riba (interest), transparency and compliance with halal standards.
-                  Muslim Coin aims to provide a trusted shariah compliant financial solution that empowers individuals and businesses to participate in the digital economy without compromising their faith through a secure, transparent and values driven ecosystem.
-                  Muslim coin seeks to redefine ethical finance and unlock new opportunities for inclusive economic growth. Muslim Coin is a next generation cryptocurrency project created to align with the values of the islamic economy while embracing the innovation of blockchain technology built with shariah compliance at its core, Muslim Coin aims to serve as a trusted financial instrument for the global muslim community starting with the forward looking and digitally savvy population of the muslim ummah, by offering a halal; interest free ecosystem that supports ethical finance.
-                  Muslim Coin empowers individuals, businesses and institutions to participate in the digital economy without compromising their faith through partnerships, transparency, and innovation.
-                  Muslim Coin positions itself as a key player in the muslim vision for a blockchain-enabled future.
-                </p>
-                <p className="mb-4 text-zinc-950">
-                </p>
-                <p>
-                </p>
-              </div>
-            </TabsContent>
-
-            <TabsContent value="introduction" className="bg-white p-8 rounded-2xl shadow-lg">
-              <h2 className="text-3xl font-bold mb-6 gradient-text">Introduction</h2>
-              <div className="prose max-w-none text-gray-700 leading-relaxed">
-                <p className="text-lg mb-6">
-                  The rise of web3 and decentralised finance (DeFi) is reshaping the global economy, introducing new forms of ownership, financial freedom and digital interaction. However, much of this innovation has yet to fully align with the values and spiritual principles of the global Muslim Ummah.
-                </p>
-                
-                <p className="text-lg mb-6">
-                  Muslim Coin is built to change that. It is a purpose-driven digital asset designed to bring meaningful, halal-aligned utility to the web3 space, empowering Muslims not just financially but spiritually by integrating faith-based actions into token mining.
-                </p>
-                
-                <div className="bg-emerald-50 p-6 rounded-lg mb-6 border-l-4 border-emerald-500">
-                  <p className="text-lg font-medium text-emerald-800 mb-3">
-                    🌙 Transforming Worship into Economic Participation
+ Muslim coin is a decentralised cryptocurrency project designed to bridge gap between modern financial innovation and islamic ethical principles in a rapidly evolving digital economy, the global muslim community remains underepresented in the crypto space due to concerns over riba (interest), transparency and compliance with halal standards.
+Muslim Coin aims to provide a trusted shariah compliant financial solution that empowers individuals and businesses to participate in the digital economy without compromising their faith through a secure, transparent and values driven ecosystem.
+ Muslim coin seeks to redefine ethical finance and unlock new opportunities for inclusive economic growth. Muslim Coin is a next generation cryptocurrency project created to align with the values of the islamic economy while embracing the innovation of blockchain technology built with shariah compliance at its core, Muslim Coin aims to serve as a trusted financial instrument for the global muslim community starting with the forward looking and digitally savvy population of the muslim ummah, by offering a halal; interest free ecosystem that supports ethical finance.
+Muslim Coin empowers individuals, businesses and institutions to participate in the digital economy without compromising their faith through partnerships, transparency, and innovation.
+ Muslim Coin positions itself as a key player in the muslim vision for a blockchain-enabled future.
+ The rise of web3 and decentralised finance (DeFi) is reshaping the global economy, introducing new forms of ownership, financial freedom and digital interaction. However, much of this innovation has yet to fully align with the values and spiritual principles of the global Muslim Ummah.
+🌙 Transforming Worship into Economic Participation
                   </p>
                   <p className="text-emerald-700">
                     Muslim Coin turns everyday worship into economic participation. This project aims to place the Muslim ummah in a state of <em>Alhamdulillah</em> - where digital advancement and divine consciousness co-exist.
